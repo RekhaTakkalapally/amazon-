@@ -49,7 +49,7 @@ Amazon S3 static website hosting serves the website through a public endpoint.
 - AWS Account
 - Terraform installed
 - AWS CLI configured
-5️⃣ Add Cleanup Step
+  Add Cleanup Step
 ## Cleanup
 
 To remove all resources created by Terraform:
