@@ -1,0 +1,5 @@
+In your project folder run:
+
+terraform init
+terraform plan
+terraform apply
