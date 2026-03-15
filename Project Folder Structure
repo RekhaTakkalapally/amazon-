@@ -1,0 +1,12 @@
+
+
+Create a folder like this:
+
+amazon-s3-terraform-project
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── index.html
+├── error.html
+└── style.css
