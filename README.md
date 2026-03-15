@@ -36,22 +36,14 @@ Amazon S3 static website hosting serves the website through a public endpoint.
 ## Project Screenshots
 
 ### Terraform Project Structure
-![Terraform](screenshots/terraform-structure.png)
 
 ### Website Source Files
-![Website Files](screenshots/website-files.png)
-
- S3 Bucket Created
- [S3 Bucket](screenshots/s3-bucket.png)
 
 ### Files Uploaded to S3
-![S3 Objects](screenshots/s3-objects.png)
 
 ### Static Website Hosting Enabled
-![Hosting](screenshots/static-hosting.png)
 
 ### Final Website Output
-![Website](screenshots/website-output.png)
 
 ## Prerequisites
 - AWS Account
