@@ -52,13 +52,8 @@ Amazon S3 static website hosting serves the website through a public endpoint.
 
 ### Final Website Output
 ![Website](screenshots/website-output.png)
-Add Live Website Section
-## Live Website
 
-http://rekha-amazon-site-20251117.s3-website.ap-south-1.amazonaws.com
-4️⃣ Add Prerequisites Section
 ## Prerequisites
-
 - AWS Account
 - Terraform installed
 - AWS CLI configured
