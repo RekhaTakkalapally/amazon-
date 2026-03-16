@@ -37,7 +37,9 @@ Terraform provisions the infrastructure and uploads the website files automatica
 Amazon S3 static website hosting serves the website through a public endpoint.
 ## Architecture Diagram
 
-![Architecture Diagram](screenshot/
+## Architecture Diagram
+
+![AWS S3 Static Website Architecture](screenshots/aws-s3-architecture.png)
 
 ---
 ## Website Output
