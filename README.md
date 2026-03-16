@@ -35,12 +35,14 @@ User → Internet → AWS S3 Bucket → Static Website Hosting → Website Outpu
 
 Terraform provisions the infrastructure and uploads the website files automatically.  
 Amazon S3 static website hosting serves the website through a public endpoint.
+## Architecture Diagram
+
+![Architecture Diagram](screenshots/s3-static-website-hosting.png)
 
 ---
-
 ## Website Output
 
-![Website Output](Static Website Amazon/website-output.png)
+![Website Output](screenshots/website-output.png)
 
 ---
 
