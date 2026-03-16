@@ -33,8 +33,6 @@ User → Internet → Amazon S3 Bucket → Static Website Hosting → Website Ou
 The website files are stored in an Amazon S3 bucket. Terraform provisions
 the infrastructure and uploads the website files automatically.
 Amazon S3 static website hosting serves the website through a public endpoint.
-rekha
-Screenshot 2025-11-17 144447.png
 
 ## Prerequisites
 - AWS Account
